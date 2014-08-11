@@ -32,7 +32,7 @@
     "depd": "0.4.4",
     "escape-html": "1.0.1",
     "finalhandler": "0.1.0",
-    "media-typer": "0.2.0",
+    "media-typer": "bpanahij/media-typer",
     "methods": "1.1.0",
     "parseurl": "~1.2.0",
     "path-to-regexp": "0.1.3",
